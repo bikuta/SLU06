@@ -1,2 +1,4 @@
 milk, eggs, bread, cheese
 butter
+eggs
+pudding
